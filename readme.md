@@ -48,7 +48,7 @@ Thanks!
 ---
 
 ## Solutions for autumnchris
-* [ ] 01 - JavaScript Drum Kit
+* [x] 01 - JavaScript Drum Kit
 * [ ] 02 - JS and CSS Clock
 * [ ] 03 - CSS Variables
 * [ ] 04 - Array Cardio Day 1
