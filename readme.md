@@ -47,7 +47,7 @@ Thanks!
 
 ---
 
-## Solutions for autumnchris
+## Completed Exercises for autumnchris
 * [x] 01 - JavaScript Drum Kit
 * [ ] 02 - JS and CSS Clock
 * [ ] 03 - CSS Variables
